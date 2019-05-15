@@ -1,0 +1,27 @@
+.app-wrap{
+  margin-left: 100px
+}
+.nav-li{
+  list-style-type: none;
+  font-size: 20px;
+  font-weight: bolder;
+}
+.activeNavLink{
+  font-size: 25px;
+  color: red
+}
+.content{
+  overflow: hidden;
+}
+.left-nav{
+  float: left;
+}
+.router-show{
+  float: left;
+  margin-left: 100px;
+}
+.home-li{
+  font-size: 16px;
+  margin-right: 30px;
+  cursor: pointer;
+}
