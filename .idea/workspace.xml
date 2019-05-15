@@ -2,11 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5c87338-99c9-4c22-8737-5c300684b986" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/css/bootstrap.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src-comments/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-comments/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-comments/components/comment-item/comment_item.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-comments/components/comments/comments.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-comments/components/user/user.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-comments/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-pubsub-comments/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-pubsub-comments/components/about/about.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-pubsub-comments/components/home/home.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src-pubsub-comments/components/message/message-detail.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-pubsub-comments/components/message/message.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-pubsub-comments/components/my_nav_link/my_nav_link.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src-pubsub-comments/components/news/news.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-pubsub-comments/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-pubsub-comments/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src-react-redux/components/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-react-redux/containers/app.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src-react-redux/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src-react-redux/redux/actions-types.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src-react-redux/redux/actions.js" afterDir="false" />
@@ -16,6 +37,9 @@
       <change afterPath="$PROJECT_DIR$/src-redux/redux/actions-types.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src-redux/redux/actions.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src-redux/redux/reducers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/动态的操作样式.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
@@ -23,7 +47,7 @@
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src-comments/App.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src-comments/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src-comments/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src-comments/logo.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src-comments/serviceWorker.js" afterDir="false" />
     </list>
@@ -154,12 +178,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557825824857</updated>
-      <workItem from="1557825826870" duration="3509000" />
+      <workItem from="1557825826870" duration="4387000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3509000" />
+    <option name="totallyTimeSpent" value="4387000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="-255" width="1920" height="980" extended-state="0" />
